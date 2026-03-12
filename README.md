@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Harsh Khatri 👋
 
-<!--
-**khatriharsh08/khatriharsh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm constantly learning and exploring new technologies
+- 👯 I'm open to collaborating on interesting projects
+- 💬 Feel free to ask me about anything
+- 📫 How to reach me: [Connect with me on GitHub](https://github.com/khatriharsh08)
+
+## 🛠️ Technologies & Tools
+
+<!-- Add your tech stack here -->
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khatriharsh08&show_icons=true&theme=default)
+
+## 🤝 Let's Connect
+
+Feel free to reach out if you want to collaborate on a project or just want to say hi!
+
+---
+
+⭐️ From [khatriharsh08](https://github.com/khatriharsh08)
